@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/reports": "pages/reports.js",
+  "/quote": "pages/quote.js",
+  "/booking": "pages/booking.js",
+  "/login": "pages/login.js",
+  "/sellRate": "pages/sellRate.js",
+  "/quote/add": "pages/quote/add.js",
+  "/summary": "pages/summary.js"
+}

@@ -30,25 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/booking.js"
     ],
-    "/login": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/login.js"
-    ],
     "/quote": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/quote.js"
-    ],
-    "/quote/add": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/quote/add.js"
-    ],
-    "/reports": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/reports.js"
     ],
     "/sellRate": [
       "static/chunks/webpack.js",
@@ -59,6 +44,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/summary.js"
+    ],
+    "/tasks": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/tasks.js"
     ]
   },
   "ampFirstPages": []
